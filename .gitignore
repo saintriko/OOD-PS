@@ -1,0 +1,9 @@
+
+*.ipch
+*.db
+GeometricShapes/.vs/GeometricShapes/v16/.suo
+GeometricShapes/GeometricShapes/Release/
+GeometricShapes/Release
+GeometricShapes/GeometricShapes/x64/
+GeometricShapes/x64/
+*.opendb
