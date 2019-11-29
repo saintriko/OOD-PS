@@ -7,3 +7,5 @@ GeometricShapes/Release
 GeometricShapes/GeometricShapes/x64/
 GeometricShapes/x64/
 *.opendb
+.vs/
+GeometricShapes/GeometricShapes/GeometricShapes.vcxproj
